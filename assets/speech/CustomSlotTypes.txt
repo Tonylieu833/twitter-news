@@ -1,0 +1,6 @@
+TWEET_CATEGORIES
+----------------
+popular
+latest
+recent
+last
